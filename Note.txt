@@ -6,3 +6,4 @@ https://github.com/Annie-Huang/react-module-federation
 --------------------------------------------------------------------------
 
 PS C:\react\react-module-federation> npm install react react-dom webpack@5 webpack-cli webpack-dev-server html-webpack-plugin
+PS C:\react\react-module-federation> npx create-react-app micro-app --template cra-template-pwa --use-npm
