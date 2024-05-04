@@ -4,3 +4,5 @@ https://medium.com/@r.sipchenko/react-micro-frontend-application-with-module-fed
 https://github.com/Annie-Huang/react-module-federation
 
 --------------------------------------------------------------------------
+
+PS C:\react\react-module-federation> npm install react react-dom webpack@5 webpack-cli webpack-dev-server html-webpack-plugin
